@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{book_solutions}, nofooter
+= Kent W. Gauen - Software
+=== [https://engineering.purdue.edu/ECE Department of Electrical and Computer Engineering], [https://www.purdue.edu/ Purdue University]
+
+I like to read textbooks and provide solutions. Often textbooks will have a solution manual online. If I feel there needs to be another solution for some reason, I will post it on this page.
+
+~~~
+{}{img_left}{imgs/probability_random_variables_and_stochastic_processes.png}{book image}{300px}{300px}{gauenk.com/book_solutions}
+[book_solutions/probability_random_variables_and_stochastic_processes/chapter1.pdf Chapter 1]\n
+Chapter 2\n
+Chapter 3\n
+Chapter 4\n
+Chapter 5\n
+Chapter 6\n
+Chapter 7\n
+Chapter 8\n
+Chapter 9\n
+Chapter 10\n
+~~~

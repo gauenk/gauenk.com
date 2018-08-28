@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{software}, nofooter
+= Kent W. Gauen - Software
+=== [https://engineering.purdue.edu/ECE Department of Electrical and Computer Engineering], [https://www.purdue.edu/ Purdue University]
+
+Check out my [http://github.com/gauenk/ Github ] for all of this information.
+
+== Recent Software
+
+Sharing code for machine learning papers is hard. Most of the work is put into attaching and manipulating code. I think emphasis is put on the +machine learning framework+, where it would be better spent finding efficient means of manipulating the data (or images). Therefore, my current workflow is to add +tools+ to a large and growing github repository unfortunately named +metaDatasetGenerator+. The name is unfortunate since it neither informs the reader what capabilities the repository wields nor is the name itself cute. The name +metaDatasetGenerator+ refers to the idea that the repository generates data about the data... The primary goal of almost every statistical process. 

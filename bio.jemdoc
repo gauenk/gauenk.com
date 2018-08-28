@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{bio}, nofooter
+= Kent W. Gauen - Biography
+=== [https://engineering.purdue.edu/ECE Department of Electrical and Computer Engineering], [https://www.purdue.edu/ Purdue University]
+
+My research interest is to develop *reliable* computer vision so that the algorithms can be used for high risk systems. If today's deep learning is what the vision system for autonomous vehicles are built on, I will not be driving anymore.
+
+My hope is that computer vision (and other perception problems) will be solved well enough for the feasible commercialization of the *Home Robot* in the truest Jetson form. My personal and professional goal is to maximize my research's impact, as pictured below.
+
+{}{img_left}{imgs/delta_under_the_curve.jpg}{alt text.}{150}{150}{gauenk.com}
+
+Currently, I live in West Lafayette, Indiana, USA. I was raised in Indianapolis, Indiana, USA (Indy\/Naptown\/"The 317"). I am the youngest of three kids. My sister Katie (the oldest) and brother Karl (the second oldests) live in Chicago, Illinois. My parents still live in my childhood home back in Indy.
+
+
+"But oh Kent. Computer vision is so popular. How unoriginal of you to study this." Sure, computer vision is popular. But I liked it before the sensationalism and I reject the alchemy of deep learning. Since the reward for solving this problem is large (see the impact measure above), it warrents serious and direct study. If you still think this is a "basic" area of research, [https://www.youtube.com/watch?v=d1mbbYKPpHY please watch this video.]
+
+
